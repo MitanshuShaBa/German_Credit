@@ -14,6 +14,8 @@ In this dataset, each entry represents a person who takes a credit by a bank. Th
 
 To do Exploratory Data Analysis of this dataset and find interesting insights.
 
+#### Code [click here](https://github.com/MitanshuShaBa/German_Credit/blob/master/working/EDA%20of%20German%20Credit%20Risk%20Dataset.ipynb)
+
 #### Conclusion
 
 * As credit amount went up duration for the credit also went up
