@@ -31,7 +31,7 @@ To do Exploratory Data Analysis of this dataset and find interesting insights.
 
 * The biggest applications for credit were for car. People who didn't have house where applying to get cars.
 
-![Purpose_count](/images/Purpose_count.png)
+![Purpose_count](/images/Purpose_count.png)![free_purpose](/images/free_purpose.png)
 
-![free_purpose](/images/free_purpose.png)
+
 
