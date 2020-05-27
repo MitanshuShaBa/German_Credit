@@ -31,9 +31,13 @@ To do Exploratory Data Analysis of this dataset and find interesting insights.
 ![Job_num_application](/images/Job_num_application.png)
 ![Job_amount](/images/Job_amount.png)
 
-* The biggest applications for credit were for car. People who didn't have house where applying to get cars.
+* The biggest applications for credit were for car. People with free housing where applying to get cars.
 
-![Purpose_count](/images/Purpose_count.png)![free_purpose](/images/free_purpose.png)
+![Purpose_count](/images/Purpose_count.png)
+
+No. of applications by people with free housing  according to purpose of application:
+
+![free_purpose](/images/free_purpose.png)
 
 
 
