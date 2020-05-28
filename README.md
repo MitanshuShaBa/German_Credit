@@ -39,5 +39,6 @@ No. of applications by people with free housing  according to purpose of applica
 
 ![free_purpose](/images/free_purpose.png)
 
-
+##### Social Preview Photo Credit:
+Photo by [Josh Appel](https://unsplash.com/@joshappel) on [Unsplash](https://unsplash.com/)
 
